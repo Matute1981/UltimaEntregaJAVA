@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Gorra La Quimera",
+        "precio": 1200,
+        "stock": true,
+        "imagen": "../image/Logo2.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Remera La Quimera",
+        "precio": 2500,
+        "stock": true,
+        "imagen": "../image/remera.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "El Veneno de tu Soledad - CD",
+        "precio": 1400,
+        "stock": true,
+        "imagen": "../image/disc1.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "El Momento Indicado - CD",
+        "precio": 1700,
+        "stock": true,
+        "imagen": "../image/disc2.jpeg"
+    },
+    {
+        "id": 5,
+        "nombre": "Encerrado en el mismo lugar - CD",
+        "precio": 1900,
+        "stock": true,
+        "imagen": "../image/disc3.jpeg"
+    }
+]
+
